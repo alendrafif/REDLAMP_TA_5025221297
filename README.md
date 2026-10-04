@@ -3,9 +3,9 @@
 ## Alendra Rafif Athaillah (5025221297)
 
 # Notebooks Description:
-- `EDALH`: Notebook untuk Exploratory Data Analysis dan Penggabungan data mentah.
-- `TA_Main`:Notebook untuk Hyperparameter Tuning
-- `Scenario`: Notebook untuk Menjalankan Skenario dengan model hasil Hyperparameter Tuning
+- `EDALH`: EDA and Data Cleaning Notebook.
+- `TA_Main`: Hyperparameter Tuning Notebook.
+- `Scenario`: Scenario testing notebook.
 
 # Guide
 > This project is divided into two notebooks. The main (TA_Main) functions as initial training and hyperparameter tuning. Once you have the parameters, input it into `scenario.ipynb`. Follow these instructions below:
